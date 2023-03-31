@@ -1,2 +1,5 @@
 # ticTacToe-Game-Using-CPP
-Console Tic Tac Toe Game Using pure C++.
+It is traditional Tic Tac Toe Game.
+It is a console Game.
+It is developed using pure C++.
+
