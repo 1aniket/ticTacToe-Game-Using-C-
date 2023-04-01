@@ -4,7 +4,10 @@ which is a console Game,
  developed using pure C++.
  
  
-![Screenshot (1)](https://user-images.githubusercontent.com/39596152/229243105-4814b3ce-d4d0-4c5d-af4b-c154a1ab858e.png)
 
 
-![Screenshot (5)](https://user-images.githubusercontent.com/39596152/229243045-be637a9f-a684-4161-bc84-cf733e80337c.png)
+
+
+![Screenshot (28)](https://user-images.githubusercontent.com/39596152/229277704-d4c89017-794a-472d-8062-03ea7be0156a.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/39596152/229277711-e39d6620-612e-4453-adf5-96e9876889e5.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/39596152/229277713-da4f8c6b-190d-4fe8-a367-d485085664b2.png)
